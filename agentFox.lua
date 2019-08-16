@@ -14,17 +14,6 @@ ConsumedRabbits = {}
 RabbitID = 0
 IsHunting=false
 
---[[ Ting der kan tilføjes:
-    [x] Ræve jager kaniner
-    [ ] Energi til ræve
-    [ ] At kaninerne flygter
-    [ ](måske) torus
-    [ ] Græs til kaninerne
-    [ ] energi til kaniner
-    [ ] At de begge kan formere sig
-    [ ] Ræve koordinere angreb så de ikke har samme mål eller koordinere så de spærre udveje(så skal de kunne dele byttet)
---]]
-
 -- Initialization of the agent.
 function InitializeAgent()	
 	say("The Fox#: " .. ID .. " has been initialized")
