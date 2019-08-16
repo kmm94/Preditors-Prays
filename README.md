@@ -9,5 +9,5 @@ Features that could be added:\
     [ ] Food(grass) for the pray\
     [ ] Pray have energi and use it when moving\
     [ ] Both prey and preditors can reproduce\
-    [ ] Preditors coordinate attacks so they doesn't attack the\     same target or so they can trap preys, but then they\        should be able to share the pray
+    [ ] Preditors coordinate attacks so they doesn't attack the\       same target or so they can trap preys, but then they\          should be able to share the pray
   
