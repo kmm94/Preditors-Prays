@@ -2,7 +2,7 @@ This is for a task at SDU for the couse Multi agent system. The files needs to b
 Rana can be found here: https://github.com/sojoe02/
 
 Features that could be added:
-    [x] Preditores hunt the pray
+    [x] Preditores hunt the pray\
     [ ] Preditores have energi and use it when moving
     [ ] prays try to escape when it is being hunted
     [ ](Maybe) Torus
